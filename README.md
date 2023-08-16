@@ -1,4 +1,11 @@
-## Всем привет! Меня зовут Артём Меньшиков 👋 ![](https://komarev.com/ghpvc/?username=a-menshikov)
+## Всем привет! Меня зовут Артём Меньшиков 👋 ![](https://komarev.com/ghpvc/?username=a-menshikov) <div id="badges">
+  <a href="https://t.me/Menshikov_AS">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:a.menshikov1989@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
+  </a>
+</div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-menshikov&theme=github_dark)
 
@@ -16,14 +23,3 @@
 ### Инфраструктура
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
-
-### Мои контакты
-
-<div id="badges">
-  <a href="https://t.me/Menshikov_AS">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:a.menshikov1989@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
-  </a>s
-</div>
