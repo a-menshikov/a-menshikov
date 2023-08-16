@@ -1,12 +1,13 @@
 ## Всем привет! Меня зовут Артём Меньшиков 👋 ![](https://komarev.com/ghpvc/?username=a-menshikov)
 
 <div id="badges">
-  <a href="https://t.me/Menshikov_AS" target="_blank">
+  <a href="https://t.me/Menshikov_AS" target="blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
-  <a href="mailto:a.menshikov1989@gmail.com" target="_blank">
+  <a href="mailto:a.menshikov1989@gmail.com" target="blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
+  <br>
 </div>
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-menshikov&theme=github_dark)
