@@ -8,7 +8,7 @@
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="E-mail"/>
   </a>
 </div>
-  
+<div><br></div>
 ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=a-menshikov&theme=github_dark)
 
 ### Язык и фреймворки
